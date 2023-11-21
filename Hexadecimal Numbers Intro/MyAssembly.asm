@@ -134,6 +134,22 @@ doit proc			; proc -- procedure
 	; -------------------------------------- Hexadecimal Numbers Intro ---------------------------------------------
 	; ref link:https://www.youtube.com/watch?v=CWDmKtSR15s&list=PLRwVmtr-pp06-8kzgl6j-hp7JSd829ro2&index=10
 
+	; Hexadecimal - Hexa means 6 sided polygon + decimal which is base 10 so 6+10= 16 base
+	; Hexadecimal - base 16 , 0123456789ABCDEF
+	; 65536 | 4096 | 256  | 16   | 1
+	; 16^4  | 16^3 | 16^2 | 16^1 | 16^0 
+	; 0     | 0    | 0    | 4    | 0 
+
+	; Decimal - base 10, 0123456789
+	; 10k  | 1k   | 100  | 10   | 1
+	; 10^4 | 10^3 | 10^2 | 10^1 | 10^0 
+	; 3    | 9    | 8    | 2    | 5   
+	
+	; Binary - base 2, 01
+	; 32  | 16  | 8   | 4   | 2   | 1
+	; 2^5 | 2^4 | 2^3 | 2^2 | 2^1 | 2^0
+	; 1   | 1   | 0   | 1   | 0   | 1
+
 
 
 
