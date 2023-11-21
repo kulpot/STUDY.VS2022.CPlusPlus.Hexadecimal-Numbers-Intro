@@ -131,6 +131,9 @@ doit proc			; proc -- procedure
 	;	0   | 0   | 1   | 0  | 1  | 0  | 1 | 1 | 0 | 1	=	0010101101
 	;	173 - 128 = 45 - 32 = 13 - 8 = 5 - 4 = 1 - 1 = 0
 
+	; -------------------------------------- Hexadecimal Numbers Intro ---------------------------------------------
+	; ref link:https://www.youtube.com/watch?v=CWDmKtSR15s&list=PLRwVmtr-pp06-8kzgl6j-hp7JSd829ro2&index=10
+
 
 
 
